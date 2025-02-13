@@ -5,7 +5,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=abdurrahmanharitsghiffary&style=flat-square&color=orange" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### :man_technologist: &nbsp;About Me :
 
@@ -48,6 +48,6 @@ I am a Full Stack Developer from Indonesia.
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdurrahmanharitsghiffary&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abdurrahmanharitsghiffary)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahmanharitsghiffary&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
