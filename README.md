@@ -12,7 +12,7 @@
 I am a Full Stack Developer from Indonesia.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- ⚡ In my free time I am exploring new technologies and study computer science at [Ossu Computer Science](https://github.com/ossu/computer-science).
+- ⚡ In my free time I am exploring new technologies.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-abdhg-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrahman-harits-ghiffary/)
 
 ---
