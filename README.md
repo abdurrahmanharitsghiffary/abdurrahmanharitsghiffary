@@ -8,7 +8,7 @@
 Full Stack Engineer — Indonesia
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG8xYWNuZDIxMm1uZGM2MmwwMGRjZm5sZHNwcnI5cjdrdmUxcXA4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P4GxohAK1vaKI2yH8E/giphy.gif" width="250"/>
+  <img src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrahman-harits-ghiffary)
