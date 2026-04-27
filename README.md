@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="./header.svg" alt="HARITS" width="1000"/>
+<img src="./header.png" alt="HARITS" width="1000"/>
 
 
 <p align="center">
