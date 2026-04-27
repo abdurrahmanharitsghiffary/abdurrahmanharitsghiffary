@@ -14,6 +14,8 @@ Full Stack Engineer — Indonesia
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrahman-harits-ghiffary)
 [![Profile Views](https://komarev.com/ghpvc/?username=abdurrahmanharitsghiffary&style=for-the-badge&color=FF6B35&label=VISITORS)](https://github.com/abdurrahmanharitsghiffary)
 
+</div>
+
 ---
 
 ## `whoami`
