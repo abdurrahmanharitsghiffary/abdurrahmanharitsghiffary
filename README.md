@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="./header.png" alt="HARITS" width="1000"/>
+<img src="./header.png" alt="HARITS" width="800"/>
 
 
 **Abdurrahman Harits Ghiffary**  
