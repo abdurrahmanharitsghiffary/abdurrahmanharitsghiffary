@@ -1,19 +1,26 @@
 <div align="center">
-
-
 <img src="./header.png" alt="HARITS" width="800"/>
-
-
-**Abdurrahman Harits Ghiffary**  
-Full Stack Engineer — Indonesia
-
-<p align="center">
-  <img src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
-</p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrahman-harits-ghiffary)
-[![Profile Views](https://komarev.com/ghpvc/?username=abdurrahmanharitsghiffary&style=for-the-badge&color=FF6B35&label=VISITORS)](https://github.com/abdurrahmanharitsghiffary)
-
+</div>
+<br/>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="center">
+      <img src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220"/>
+    </td>
+    <td align="left" valign="middle">
+      <h2>Abdurrahman Harits Ghiffary</h2>
+      <p>Full Stack Engineer — Indonesia 🇮🇩</p>
+      <a href="https://www.linkedin.com/in/abdurrahman-harits-ghiffary">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+      &nbsp;
+      <a href="https://github.com/abdurrahmanharitsghiffary">
+        <img src="https://komarev.com/ghpvc/?username=abdurrahmanharitsghiffary&style=for-the-badge&color=FF6B35&label=VISITORS"/>
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
