@@ -76,8 +76,12 @@ contact   : linkedin.com/in/abdurrahman-harits-ghiffary
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahmanharitsghiffary&layout=compact&theme=tokyonight&border_color=30363d&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=abdurrahmanharitsghiffary&theme=tokyonight&background=0d1117&border=30363d&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+<p align="center">
+  <img src="./anime.png" width="1000"/>
+</p>
