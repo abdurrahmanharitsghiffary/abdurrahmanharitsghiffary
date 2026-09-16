@@ -79,9 +79,3 @@ contact   : linkedin.com/in/abdurrahman-harits-ghiffary
 [![GitHub Streak](https://streak-stats.demolab.com?user=abdurrahmanharitsghiffary&theme=tokyonight&background=0d1117&border=30363d&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)](https://git.io/streak-stats)
 
 </div>
-
----
-
-<p align="center">
-  <img src="./anime.png" width="1000"/>
-</p>
