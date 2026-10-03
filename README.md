@@ -11,6 +11,7 @@ Full Stack Engineer — Indonesia
   <img src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
 </p>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdurrahmanharitsghiffary.my.id/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrahman-harits-ghiffary)
 [![Profile Views](https://komarev.com/ghpvc/?username=abdurrahmanharitsghiffary&style=for-the-badge&color=FF6B35&label=VISITORS)](https://github.com/abdurrahmanharitsghiffary)
 
